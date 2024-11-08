@@ -1,0 +1,11 @@
+CarrierName,time_of_day,avg_delay
+Air France,evening,INTERVAL '0 00:46:23.229947' DAY TO SECOND
+Emirates,evening,INTERVAL '0 00:45:35.049505' DAY TO SECOND
+Singapore Airlines,evening,INTERVAL '0 00:45:44.849162' DAY TO SECOND
+Qantas,evening,INTERVAL '0 00:41:50.07874' DAY TO SECOND
+American Airlines,evening,INTERVAL '0 00:43:40.092486' DAY TO SECOND
+Delta Airlines,evening,INTERVAL '0 00:42:14.405436' DAY TO SECOND
+British Airways,evening,INTERVAL '0 00:46:00.0625' DAY TO SECOND
+United Airlines,evening,INTERVAL '0 00:45:46' DAY TO SECOND
+Lufthansa,evening,INTERVAL '0 00:44:34.041096' DAY TO SECOND
+Southwest Airlines,evening,INTERVAL '0 00:46:39.607843' DAY TO SECOND

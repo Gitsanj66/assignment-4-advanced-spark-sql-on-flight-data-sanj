@@ -1,0 +1,91 @@
+OriginAirportName,OriginCity,DestAirportName,DestCity,cancellation_rate
+John F. Kennedy International,New York,O'Hare International,Chicago,0.1
+Logan International,Boston,John F. Kennedy International,New York,0.09
+Los Angeles International,Los Angeles,Dallas/Fort Worth International,Dallas,0.09
+John F. Kennedy International,New York,Miami International,Miami,0.08
+Denver International,Denver,Seattle-Tacoma International,Seattle,0.09
+Logan International,Boston,Denver International,Denver,0.1
+Dallas/Fort Worth International,Dallas,Seattle-Tacoma International,Seattle,0.04
+Seattle-Tacoma International,Seattle,Los Angeles International,Los Angeles,0.09
+Hartsfield-Jackson Atlanta International,Atlanta,O'Hare International,Chicago,0.1
+Dallas/Fort Worth International,Dallas,O'Hare International,Chicago,0.06
+Denver International,Denver,San Francisco International,San Francisco,0.07
+Los Angeles International,Los Angeles,Miami International,Miami,0.09
+Dallas/Fort Worth International,Dallas,Denver International,Denver,0.09
+Logan International,Boston,Seattle-Tacoma International,Seattle,0.1
+John F. Kennedy International,New York,San Francisco International,San Francisco,0.06
+O'Hare International,Chicago,Logan International,Boston,0.11
+Miami International,Miami,Seattle-Tacoma International,Seattle,0.1
+Hartsfield-Jackson Atlanta International,Atlanta,Denver International,Denver,0.11
+San Francisco International,San Francisco,O'Hare International,Chicago,0.07
+San Francisco International,San Francisco,Dallas/Fort Worth International,Dallas,0.14
+Logan International,Boston,Hartsfield-Jackson Atlanta International,Atlanta,0.16
+Hartsfield-Jackson Atlanta International,Atlanta,San Francisco International,San Francisco,0.09
+O'Hare International,Chicago,Denver International,Denver,0.15
+San Francisco International,San Francisco,Miami International,Miami,0.09
+Hartsfield-Jackson Atlanta International,Atlanta,John F. Kennedy International,New York,0.11
+John F. Kennedy International,New York,Denver International,Denver,0.1
+Dallas/Fort Worth International,Dallas,Miami International,Miami,0.13
+Miami International,Miami,O'Hare International,Chicago,0.13
+O'Hare International,Chicago,Miami International,Miami,0.12
+San Francisco International,San Francisco,Denver International,Denver,0.1
+San Francisco International,San Francisco,Seattle-Tacoma International,Seattle,0.11
+Miami International,Miami,Hartsfield-Jackson Atlanta International,Atlanta,0.1
+Los Angeles International,Los Angeles,John F. Kennedy International,New York,0.09
+O'Hare International,Chicago,Hartsfield-Jackson Atlanta International,Atlanta,0.08
+Seattle-Tacoma International,Seattle,San Francisco International,San Francisco,0.09
+Dallas/Fort Worth International,Dallas,John F. Kennedy International,New York,0.04
+Miami International,Miami,San Francisco International,San Francisco,0.1
+Miami International,Miami,John F. Kennedy International,New York,0.14
+Denver International,Denver,John F. Kennedy International,New York,0.13
+John F. Kennedy International,New York,Hartsfield-Jackson Atlanta International,Atlanta,0.08
+John F. Kennedy International,New York,Dallas/Fort Worth International,Dallas,0.17
+Hartsfield-Jackson Atlanta International,Atlanta,Miami International,Miami,0.15
+Denver International,Denver,Los Angeles International,Los Angeles,0.11
+San Francisco International,San Francisco,Hartsfield-Jackson Atlanta International,Atlanta,0.07
+Miami International,Miami,Logan International,Boston,0.1
+Miami International,Miami,Los Angeles International,Los Angeles,0.09
+O'Hare International,Chicago,Dallas/Fort Worth International,Dallas,0.07
+Dallas/Fort Worth International,Dallas,Hartsfield-Jackson Atlanta International,Atlanta,0.04
+O'Hare International,Chicago,John F. Kennedy International,New York,0.06
+Denver International,Denver,O'Hare International,Chicago,0.06
+Los Angeles International,Los Angeles,Denver International,Denver,0.07
+Los Angeles International,Los Angeles,San Francisco International,San Francisco,0.11
+San Francisco International,San Francisco,Logan International,Boston,0.1
+Seattle-Tacoma International,Seattle,Denver International,Denver,0.09
+Logan International,Boston,Dallas/Fort Worth International,Dallas,0.08
+Hartsfield-Jackson Atlanta International,Atlanta,Logan International,Boston,0.09
+Seattle-Tacoma International,Seattle,Hartsfield-Jackson Atlanta International,Atlanta,0.07
+Hartsfield-Jackson Atlanta International,Atlanta,Seattle-Tacoma International,Seattle,0.15
+Denver International,Denver,Hartsfield-Jackson Atlanta International,Atlanta,0.08
+Seattle-Tacoma International,Seattle,O'Hare International,Chicago,0.11
+Seattle-Tacoma International,Seattle,Logan International,Boston,0.1
+John F. Kennedy International,New York,Logan International,Boston,0.11
+Dallas/Fort Worth International,Dallas,Los Angeles International,Los Angeles,0.22
+Denver International,Denver,Miami International,Miami,0.1
+John F. Kennedy International,New York,Seattle-Tacoma International,Seattle,0.08
+Los Angeles International,Los Angeles,Hartsfield-Jackson Atlanta International,Atlanta,0.09
+Logan International,Boston,O'Hare International,Chicago,0.09
+Hartsfield-Jackson Atlanta International,Atlanta,Los Angeles International,Los Angeles,0.11
+O'Hare International,Chicago,San Francisco International,San Francisco,0.07
+Dallas/Fort Worth International,Dallas,San Francisco International,San Francisco,0.04
+Los Angeles International,Los Angeles,Logan International,Boston,0.09
+San Francisco International,San Francisco,John F. Kennedy International,New York,0.12
+John F. Kennedy International,New York,Los Angeles International,Los Angeles,0.11
+Denver International,Denver,Dallas/Fort Worth International,Dallas,0.08
+San Francisco International,San Francisco,Los Angeles International,Los Angeles,0.13
+O'Hare International,Chicago,Seattle-Tacoma International,Seattle,0.08
+Miami International,Miami,Dallas/Fort Worth International,Dallas,0.18
+Seattle-Tacoma International,Seattle,Dallas/Fort Worth International,Dallas,0.1
+Denver International,Denver,Logan International,Boston,0.11
+Miami International,Miami,Denver International,Denver,0.07
+Los Angeles International,Los Angeles,O'Hare International,Chicago,0.07
+Dallas/Fort Worth International,Dallas,Logan International,Boston,0.11
+Logan International,Boston,San Francisco International,San Francisco,0.18
+Logan International,Boston,Miami International,Miami,0.11
+Logan International,Boston,Los Angeles International,Los Angeles,0.11
+Seattle-Tacoma International,Seattle,Miami International,Miami,0.09
+Seattle-Tacoma International,Seattle,John F. Kennedy International,New York,0.08
+Hartsfield-Jackson Atlanta International,Atlanta,Dallas/Fort Worth International,Dallas,0.08
+O'Hare International,Chicago,Los Angeles International,Los Angeles,0.14
+Los Angeles International,Los Angeles,Seattle-Tacoma International,Seattle,0.1

@@ -1,0 +1,34 @@
+FlightNum,CarrierName,OriginAirportName,OriginCity,DestAirportName,DestCity,scheduled_travel_time,actual_travel_time,discrepancy
+1003,American Airlines,Los Angeles International,Los Angeles,Denver International,Denver,INTERVAL '0 15:00:00' DAY TO SECOND,INTERVAL '0 12:34:00' DAY TO SECOND,INTERVAL '0 02:26:00' DAY TO SECOND
+3308,American Airlines,Logan International,Boston,San Francisco International,San Francisco,INTERVAL '0 14:00:00' DAY TO SECOND,INTERVAL '0 11:39:00' DAY TO SECOND,INTERVAL '0 02:21:00' DAY TO SECOND
+5356,American Airlines,John F. Kennedy International,New York,Hartsfield-Jackson Atlanta International,Atlanta,INTERVAL '0 08:00:00' DAY TO SECOND,INTERVAL '0 05:40:00' DAY TO SECOND,INTERVAL '0 02:20:00' DAY TO SECOND
+2147,Air France,Dallas/Fort Worth International,Dallas,Miami International,Miami,INTERVAL '0 13:00:00' DAY TO SECOND,INTERVAL '0 15:30:00' DAY TO SECOND,INTERVAL '0 02:30:00' DAY TO SECOND
+7040,Air France,Los Angeles International,Los Angeles,Logan International,Boston,INTERVAL '0 15:00:00' DAY TO SECOND,INTERVAL '0 17:29:00' DAY TO SECOND,INTERVAL '0 02:29:00' DAY TO SECOND
+2396,Air France,Miami International,Miami,Los Angeles International,Los Angeles,INTERVAL '0 14:00:00' DAY TO SECOND,INTERVAL '0 11:31:00' DAY TO SECOND,INTERVAL '0 02:29:00' DAY TO SECOND
+7080,British Airways,San Francisco International,San Francisco,Hartsfield-Jackson Atlanta International,Atlanta,INTERVAL '0 14:00:00' DAY TO SECOND,INTERVAL '0 16:29:00' DAY TO SECOND,INTERVAL '0 02:29:00' DAY TO SECOND
+5456,British Airways,John F. Kennedy International,New York,O'Hare International,Chicago,INTERVAL '0 14:00:00' DAY TO SECOND,INTERVAL '0 16:23:00' DAY TO SECOND,INTERVAL '0 02:23:00' DAY TO SECOND
+2568,British Airways,Dallas/Fort Worth International,Dallas,Hartsfield-Jackson Atlanta International,Atlanta,INTERVAL '0 14:00:00' DAY TO SECOND,INTERVAL '0 11:37:00' DAY TO SECOND,INTERVAL '0 02:23:00' DAY TO SECOND
+1920,Delta Airlines,Hartsfield-Jackson Atlanta International,Atlanta,Denver International,Denver,INTERVAL '0 15:00:00' DAY TO SECOND,INTERVAL '0 17:29:00' DAY TO SECOND,INTERVAL '0 02:29:00' DAY TO SECOND
+6980,Delta Airlines,San Francisco International,San Francisco,O'Hare International,Chicago,INTERVAL '0 12:00:00' DAY TO SECOND,INTERVAL '0 09:33:00' DAY TO SECOND,INTERVAL '0 02:27:00' DAY TO SECOND
+7040,Delta Airlines,Los Angeles International,Los Angeles,Dallas/Fort Worth International,Dallas,INTERVAL '0 10:00:00' DAY TO SECOND,INTERVAL '0 12:25:00' DAY TO SECOND,INTERVAL '0 02:25:00' DAY TO SECOND
+1379,Delta Airlines,Miami International,Miami,Hartsfield-Jackson Atlanta International,Atlanta,INTERVAL '0 13:00:00' DAY TO SECOND,INTERVAL '0 15:25:00' DAY TO SECOND,INTERVAL '0 02:25:00' DAY TO SECOND
+8537,Emirates,Seattle-Tacoma International,Seattle,Denver International,Denver,INTERVAL '0 03:00:00' DAY TO SECOND,INTERVAL '0 00:34:00' DAY TO SECOND,INTERVAL '0 02:26:00' DAY TO SECOND
+8204,Emirates,John F. Kennedy International,New York,Logan International,Boston,INTERVAL '0 06:00:00' DAY TO SECOND,INTERVAL '0 08:25:00' DAY TO SECOND,INTERVAL '0 02:25:00' DAY TO SECOND
+2650,Emirates,Miami International,Miami,Denver International,Denver,INTERVAL '0 09:00:00' DAY TO SECOND,INTERVAL '0 06:36:00' DAY TO SECOND,INTERVAL '0 02:24:00' DAY TO SECOND
+3255,Lufthansa,John F. Kennedy International,New York,Miami International,Miami,INTERVAL '0 13:00:00' DAY TO SECOND,INTERVAL '0 10:32:00' DAY TO SECOND,INTERVAL '0 02:28:00' DAY TO SECOND
+8092,Lufthansa,San Francisco International,San Francisco,Seattle-Tacoma International,Seattle,INTERVAL '0 05:00:00' DAY TO SECOND,INTERVAL '0 02:34:00' DAY TO SECOND,INTERVAL '0 02:26:00' DAY TO SECOND
+7097,Lufthansa,San Francisco International,San Francisco,Miami International,Miami,INTERVAL '0 02:00:00' DAY TO SECOND,INTERVAL '-0 00:24:00' DAY TO SECOND,INTERVAL '0 02:24:00' DAY TO SECOND
+4002,Qantas,Miami International,Miami,Seattle-Tacoma International,Seattle,INTERVAL '0 07:00:00' DAY TO SECOND,INTERVAL '0 09:29:00' DAY TO SECOND,INTERVAL '0 02:29:00' DAY TO SECOND
+5791,Qantas,Denver International,Denver,Logan International,Boston,INTERVAL '0 06:00:00' DAY TO SECOND,INTERVAL '0 08:27:00' DAY TO SECOND,INTERVAL '0 02:27:00' DAY TO SECOND
+6284,Qantas,Miami International,Miami,Logan International,Boston,INTERVAL '0 11:00:00' DAY TO SECOND,INTERVAL '0 13:20:00' DAY TO SECOND,INTERVAL '0 02:20:00' DAY TO SECOND
+4839,Qantas,San Francisco International,San Francisco,Seattle-Tacoma International,Seattle,INTERVAL '0 10:00:00' DAY TO SECOND,INTERVAL '0 07:40:00' DAY TO SECOND,INTERVAL '0 02:20:00' DAY TO SECOND
+5825,Singapore Airlines,Dallas/Fort Worth International,Dallas,John F. Kennedy International,New York,INTERVAL '0 09:00:00' DAY TO SECOND,INTERVAL '0 06:34:00' DAY TO SECOND,INTERVAL '0 02:26:00' DAY TO SECOND
+9919,Singapore Airlines,Miami International,Miami,Hartsfield-Jackson Atlanta International,Atlanta,INTERVAL '0 08:00:00' DAY TO SECOND,INTERVAL '0 10:20:00' DAY TO SECOND,INTERVAL '0 02:20:00' DAY TO SECOND
+7988,Singapore Airlines,San Francisco International,San Francisco,Miami International,Miami,INTERVAL '0 05:00:00' DAY TO SECOND,INTERVAL '0 02:40:00' DAY TO SECOND,INTERVAL '0 02:20:00' DAY TO SECOND
+9080,Singapore Airlines,San Francisco International,San Francisco,O'Hare International,Chicago,INTERVAL '0 04:00:00' DAY TO SECOND,INTERVAL '0 06:20:00' DAY TO SECOND,INTERVAL '0 02:20:00' DAY TO SECOND
+9586,Southwest Airlines,San Francisco International,San Francisco,Hartsfield-Jackson Atlanta International,Atlanta,INTERVAL '0 05:00:00' DAY TO SECOND,INTERVAL '0 07:26:00' DAY TO SECOND,INTERVAL '0 02:26:00' DAY TO SECOND
+9834,Southwest Airlines,Logan International,Boston,John F. Kennedy International,New York,INTERVAL '0 07:00:00' DAY TO SECOND,INTERVAL '0 09:25:00' DAY TO SECOND,INTERVAL '0 02:25:00' DAY TO SECOND
+2941,Southwest Airlines,Denver International,Denver,Dallas/Fort Worth International,Dallas,INTERVAL '0 09:00:00' DAY TO SECOND,INTERVAL '0 11:22:00' DAY TO SECOND,INTERVAL '0 02:22:00' DAY TO SECOND
+9348,United Airlines,Seattle-Tacoma International,Seattle,O'Hare International,Chicago,INTERVAL '0 13:00:00' DAY TO SECOND,INTERVAL '0 10:38:00' DAY TO SECOND,INTERVAL '0 02:22:00' DAY TO SECOND
+5428,United Airlines,Los Angeles International,Los Angeles,San Francisco International,San Francisco,INTERVAL '0 07:00:00' DAY TO SECOND,INTERVAL '0 04:39:00' DAY TO SECOND,INTERVAL '0 02:21:00' DAY TO SECOND
+3082,United Airlines,O'Hare International,Chicago,Seattle-Tacoma International,Seattle,INTERVAL '0 06:00:00' DAY TO SECOND,INTERVAL '0 08:18:00' DAY TO SECOND,INTERVAL '0 02:18:00' DAY TO SECOND
